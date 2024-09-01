@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+input[type="number"],
+input[type="range"] {
+    margin: 10px;
+}
+
+.radio-buttons {
+    margin: 20px 0;
+}
+
+.radio-buttons label {
+    margin: 0 10px;
+}
